@@ -2,7 +2,7 @@
 
 ## Create a conda env with 3.9 
 
-## Activate it by conda activate venv/
+## Activate it by conda activate env/
 
 ## Install all the Dependencies
 
