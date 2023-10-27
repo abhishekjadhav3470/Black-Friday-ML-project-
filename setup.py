@@ -17,7 +17,7 @@ def get_requirements(filepath:str)->List[str]:
 setup(
     name='Black_Friday_Sales_Prediction_ML_project',
     version='0.0.1',
-    author='abhishekjadhav',
+    author='abhishekjadhav3470',
     author_email='abhishekjadhav3470@gmail.com',
     install_requires=get_requirements('requirements.txt'), 
     packages=find_packages()
