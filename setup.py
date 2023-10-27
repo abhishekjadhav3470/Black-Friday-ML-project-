@@ -15,7 +15,7 @@ def get_requirements(filepath:str)->List[str]:
         return requirements
 
 setup(
-    name='Black_FridaySalesPrediction',
+    name='Black_Friday_Sales_Prediction_ML_project',
     version='0.0.1',
     author='abhishekjadhav',
     author_email='abhishekjadhav3470@gmail.com',
